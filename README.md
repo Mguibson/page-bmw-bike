@@ -2,6 +2,7 @@
 Replicando uma página inicial da BMW G 310 R
 
 
+
 ## Page Bike BMW
 
 -  Replicando uma página que apresenta a moto G 310 R.
@@ -26,5 +27,8 @@ Replicando uma página inicial da BMW G 310 R
 * HTML
 * CSS
 * JavaScript
+
+
+## Demonstração
 
 ![image](https://user-images.githubusercontent.com/42776591/168602657-ee9958ed-92ee-43db-99a6-437e68c308fc.png)
