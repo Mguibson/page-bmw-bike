@@ -1,8 +1,3 @@
-# page-bmw-bike
-Replicando uma página inicial da BMW G 310 R
-
-
-
 ## Page Bike BMW
 
 -  Replicando uma página que apresenta a moto G 310 R.
